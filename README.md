@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&size=30&center=true&vCenter=true&width=600&lines=Hello+there!+I'm+Your+Name;Backend+Developer+with+Java+Spring;Welcome+to+my+GitHub+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&size=30&center=true&vCenter=true&width=600&lines=Hello+there!+I'm+KyeongMi+Yoo;Backend+Developer+with+Java+Spring;Welcome+to+my+GitHub+Profile!">
 </p>
 
 ## About Me
@@ -32,8 +32,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Your GitHub stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yooookm&show_icons=true&theme=tokyonight" alt="Your GitHub stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yooookm&layout=compact&theme=tokyonight" alt="Top Langs" height="180em"/>
 </p>
 
 ---
